@@ -28,7 +28,7 @@
     "reflect-metadata": "^0.1.13",
     "swagger-ui-express": "^4.1.1",
     "ts-node-dev": "^1.0.0-pre.42",
-    "typeorm": "^0.2.19",
+    "typeorm": "^0.2.25",
     "typescript": "^3.6.3"
   },
   "devDependencies": {
