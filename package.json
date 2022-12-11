@@ -17,7 +17,7 @@
     "class-validator": "^0.10.0",
     "co": "^4.6.0",
     "csv-stringify": "^5.3.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-csv": "^0.6.0",
     "express-json-csv": "0.0.3",
     "json2csv": "^4.5.4",
